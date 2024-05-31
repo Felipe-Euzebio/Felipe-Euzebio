@@ -1,10 +1,8 @@
-<br clear="both">
-
-<h2 align="left">Felipe Euzébio</h2>
+<h3 align="center">Felipe Euzébio<br>💻 Full Stack Developer from Brazil</h3>
 
 ###
 
-<h3 align="center">Full Stack Developer from Brazil</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 ###
 
@@ -12,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe-Euzebio&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Felipe-Euzebio&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -60,6 +62,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
 </div>
+
+###
+
+<h3 align="left">🌐 Socials:</h3>
 
 ###
 

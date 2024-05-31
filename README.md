@@ -1,4 +1,4 @@
-<h3 align="center">Felipe Euzébio<br>💻 Full Stack Developer from Brazil</h3>
+<h3 align="center">💻 Full Stack Developer from Brazil</h3>
 
 ###
 
